@@ -2,7 +2,7 @@
 
 ## Game Developer & Software Engineer
 
-Sou uma desenvolvedora que transita entre a lógica complexa da **Unreal Engine 5** e a agilidade das tecnologias modernas de web. Com formação em **Game Design**, foco na criação de experiências imersivas, enquanto aplico meu conhecimento técnico em **C++**, **JavaScript** e **React** para construir sistemas robustos e escaláveis.
+Sou uma desenvolvedora que transita entre a lógica complexa da **Unreal Engine 5** e a agilidade das tecnologias modernas de web. Com formação em **Game Design**, foco na criação de experiências imersivas, enquanto aplico meu conhecimento técnico em **C++**, **JavaScript** e **React** para construir sistemas escaláveis e telas agradaveis.
 
 ---
 
